@@ -1,16 +1,14 @@
-### Hi there 👋
+[![khriztianmoreno - Javascript Developer](https://res.cloudinary.com/khriztianmoreno/image/upload/f_auto,g_auto/v1594300897/KM-brand/km-keyvisual.png)](https://www.khriztianmoreno.com)
 
-<!--
-**khriztianmoreno/khriztianmoreno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi 👋🏻, I'm Cristian Moreno. On a daily basis I use: **JavaScript (ES6), React, Gatsby, CSS (inJS), GraphQL, Serverless**, just to name the most important bits. 
+I'm a community leader and altruistic speaker. Currently co-organize [Medellin.js](http://medellinjs.org/) (Biggest JavaScript user group in Colombia), [Avanet](https://avanet.org/) and [JAMstack Medellin](https://www.meetup.com/jamstack-medellin/) communities.
 
-Here are some ideas to get you started:
+I love developing things, especially ideas, giving them a new perspective and making them shine! products and applications come after I transform ideas into code; I'm passionate about software development and related stuff.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🥑👨🏼‍💻 #Javascript Developer Advocate
+
+🦸🏼💻 Community builder
+
+🎙📻 Producer [@commit.fm](https://anchor.fm/khriztianmoreno)
+
+🟣🎧 [#EStreamerCoders](https://www.twitch.tv/khriztianmoreno) at @twitch

@@ -5,6 +5,10 @@ I'm a community leader and altruistic speaker. Currently co-organize [Medellin.j
 
 I love developing things, especially ideas, giving them a new perspective and making them shine! products and applications come after I transform ideas into code; I'm passionate about software development and related stuff.
 
+On a daily basis I use: JavaScript (ES6), React, Gatsby, CSS (inJS), GraphQL, just to name the most important bits.
+
+I bootstrap single page and statically generated React apps from scratch, on top of the Create React App and Gatsby frameworks using intuitive state management like Redux and core React features. I utilize CI tools like Circle CI and Netlify to build/deploy static sites.
+
 🥑👨🏼‍💻 #Javascript Developer Advocate
 
 🦸🏼💻 Community builder
